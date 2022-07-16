@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\tools"
+		},
+		{
+			"path": "..\\..\\..\\..\\Downloads\\bingo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "bingo"
+	}
+}
